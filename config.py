@@ -3,7 +3,8 @@ DB_HOST = (
 )
 DB_PORT = "6543"  #  Este es siempre el mismo
 DB_NAME = "APIgd"  #  Aca va el nombre de tu base de datos
-DB_USER = "urimelian28@gmail.com"  #  Aca va el usuario de tu base de datos
+DB_USER = "UriMeliaen's Org"  #  Aca va el usuario de tu base de datos
 DB_PASSWORD = "o67FFy0X6rlVPVbY"  #  Aca va la contraseña de tu base de datos
 DB_SSLMODE = "require"  #  Este siempre es lo mismo
+
 
